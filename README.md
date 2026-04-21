@@ -1,4 +1,4 @@
-📊 Addidas - Sales Data Analysis & Dashboard Project using Power BI
+# Power BI: Addidas Sales Data Analysis & Dashboard Project
 
 📌 Overview:
 
